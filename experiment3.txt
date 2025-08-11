@@ -1,0 +1,5 @@
+Student name: Kantipudi Charishma
+Course: BCA
+Section: 2
+Roll.no: 26
+College name: ASCS
